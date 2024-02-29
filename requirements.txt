@@ -1,0 +1,9 @@
+annotated-types==0.6.0
+pydantic==2.5.2
+pydantic_core==2.14.5
+typing_extensions==4.9.0
+
+# docs
+sphinx
+myst-parser==2.0.0
+jsonref==1.1.0
